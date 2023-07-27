@@ -9,6 +9,7 @@ public class JiraTest2Application {
     public static void main(String[] args) {
         SpringApplication.run(JiraTest2Application.class, args);
         System.out.println("지라테스트 2번째 입니당");
+        System.out.println("지라테스트 2번째 입니당");
     }
 
 }
