@@ -8,4 +8,5 @@ import org.springframework.web.bind.annotation.RestController;
 @RestController
 public class Member {
     //아니 push가 왜 돼?
+    //왜 되냐고?
 }
